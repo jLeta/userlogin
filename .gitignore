@@ -63,7 +63,7 @@ mvnw.cmd
 hs_err_pid*
 .idea/
 .vscode/
-/node_modules
+frontend/node_modules
 /.pnp
 .pnp.js
 
