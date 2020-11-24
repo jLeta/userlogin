@@ -72,7 +72,7 @@
 						<configuration>
 							<target>
 								<copy todir="${project.build.directory}/classes/public">
-									<fileset dir="../userlogin-frontend/build"/>
+									<fileset dir="../frontend/build"/>
 								</copy>
 							</target>
 						</configuration>
