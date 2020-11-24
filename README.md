@@ -22,3 +22,9 @@ The minimum requirements for this application:
 - the application can be containerized using docker. 
 
  
+# Demo
+login page
+![login page](https://github.com/jLeta/images/blob/main/Screen%20Shot%202020-11-23%20at%2011.11.25%20PM.png?raw=true)
+
+Detail page
+![login page](https://github.com/jLeta/images/blob/main/Screen%20Shot%202020-11-23%20at%2011.15.46%20PM.png?raw=true)

@@ -68,7 +68,7 @@ function App() {
   let content = null;
 
   // user not loged in yet.
-  if (!user || user.firstName) {
+  if (!user || !user.firstName) {
 
     content = (
       <Login
