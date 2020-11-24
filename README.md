@@ -28,7 +28,7 @@ The minimum requirements for this application:
 - com.h2database
 
 # React
-## depedencies 
+## dependencies 
 - axios : send api request
 - tailwindcss: css
 - postcss-cli: telwind css processor. 
