@@ -21,6 +21,18 @@ The minimum requirements for this application:
 - build-and-start-app.sh script can be avoided by using maven plugin to build the frontend app. 
 - the application can be containerized using docker. 
 
+# spring-boot
+## dependencies
+- spring-boot-starter-data-jpa
+- spring-boot-starter-web
+- com.h2database
+
+# React
+## depedencies 
+- axios : send api request
+- tailwindcss: css
+- postcss-cli: telwind css processor. 
+- autoprefixer: post css plugin
  
 # Demo
 ## Login page
